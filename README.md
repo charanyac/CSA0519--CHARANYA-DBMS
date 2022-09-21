@@ -15,3 +15,7 @@
 ## EXPERIMENT 3 QUERIES
 [Experiment 3](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%203)
 ![image](https://user-images.githubusercontent.com/113339287/191430951-e4777852-475f-4583-8c13-a66eafd44747.png)
+## EXPERIMENT 4 QUERIES
+[EXPERIMENT 4](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%204)
+[EXP 4 screen shot] (https://user-images.githubusercontent.com/113407411/191282181-121c7ffb-2db1-47a7-914e-26e51a0e2ce9.png)
+![image](https://user-images.githubusercontent.com/113339287/191436295-7a78229a-62c2-4440-b150-5504896eaa62.png)
