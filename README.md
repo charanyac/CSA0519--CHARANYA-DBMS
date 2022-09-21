@@ -12,3 +12,5 @@
 ![exp 2 2 scren shot](https://user-images.githubusercontent.com/113339287/191282206-dfeb00da-2900-4eac-911c-f3929146c42e.png)
 ![exp 2 3 scren shot](https://user-images.githubusercontent.com/113339287/191282323-0c2213cb-dfc7-4d97-b162-cb893e185a8e.png)
 ![exp 2 5 scren shot](https://user-images.githubusercontent.com/113339287/191282448-b2b7515b-2ee8-4576-9fd5-e5098da39bf2.png)
+## EXPERIMENT 3 QUERIES
+[Experiment 3](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%203)
