@@ -50,6 +50,10 @@
 ![image](https://user-images.githubusercontent.com/113339287/191539460-18763006-fb24-428b-b4ba-36e70955af36.png)
 ![image](https://user-images.githubusercontent.com/113339287/191539846-2994efb4-516b-41d9-a83a-a1863919f79b.png)
 ## EXPERIMENT 12 QUERIES
-[EXPERIMENT 12]
+[EXPERIMENT 12](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2012)
+![image](https://user-images.githubusercontent.com/113339287/191541582-b147df85-7c0c-40eb-9148-fa3969491e13.png)
+![image](https://user-images.githubusercontent.com/113339287/191541734-65910e85-456b-495c-b32b-2761afe4a99e.png)
+## EXPERIMENT 13 QUERIES
+[EXPERIMENT 13](
 
 
