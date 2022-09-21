@@ -42,6 +42,8 @@
 ![image](https://user-images.githubusercontent.com/113339287/191437835-b4b8cc99-f854-4fb5-afa5-eaeef280e07a.png)
 ![image](https://user-images.githubusercontent.com/113339287/191437868-9a41cbf7-37a4-4654-ad28-7beef0800f6f.png)
 ![image](https://user-images.githubusercontent.com/113339287/191437919-00f87329-e769-4052-97db-fa024a48ce2e.png)
-
+## EXPERIMENT 10 QUERIES
+[EXPERIMENT 10]
+![image](https://user-images.githubusercontent.com/113339287/191521113-d58e2e3b-403f-4631-9d44-f2c58dde531a.png)
 
 
