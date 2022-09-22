@@ -73,4 +73,6 @@
 ![image](https://user-images.githubusercontent.com/113339287/191679114-3fb16969-3069-4af2-8184-fb5e77158775.png)
 ![image](https://user-images.githubusercontent.com/113339287/191679159-4686a4e9-9ab8-4d64-9614-0eeefd97dc60.png)
 ## EXPERIMENT 18 QUERIES
-[EXPERIMENT 18](
+[EXPERIMENT 18](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2018)
+![image](https://user-images.githubusercontent.com/113339287/191696163-78ab2187-7e20-4be9-99e3-b82a2916d735.png)
+
