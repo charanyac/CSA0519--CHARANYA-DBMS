@@ -95,7 +95,7 @@
 [EXPERIMENT 23](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2024)
 ![image](https://user-images.githubusercontent.com/113339287/191903180-63d6bc73-03d1-4f7f-ae84-f6d073e801e5.png)
 ## EXPERIMENT 24 QUERIES
-[EXPERIMENT 24](
+[EXPERIMENT 24](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2024)
 ![image](https://user-images.githubusercontent.com/113339287/191903222-0b4812da-dd2d-4573-b276-7ea202e23531.png)
 ## EXPERIMENT 25 QUERIES
 [EXPERIMENT 25](
